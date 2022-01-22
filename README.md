@@ -2,5 +2,5 @@
  Intro GitHub
 ## Hola
 ### Lupita
-![hack] (img/descarga.jpg)
+![hack](img/Hydrangeas.jpg)
 
